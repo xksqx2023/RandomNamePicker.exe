@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/31215018/README.md)
-# -exe
+# 随机点名exe文件
 随机点名exe文件
 # 随机点名系统
 压缩包内包含Windows可执行程序，无需安装Python。
